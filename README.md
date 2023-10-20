@@ -1,10 +1,11 @@
-_This is just a suggested template for the README of your project, feel free to modify this as you wish_
 # \[PickupPal\]
 
 ### Team Members
 - Cal Matzke (Project Lead)
 - William Dwyer
 - Sasha Nikitin
+- Will Dart
+- Adi Govil
 
 ### Project Description
 Find pickup games near you!
