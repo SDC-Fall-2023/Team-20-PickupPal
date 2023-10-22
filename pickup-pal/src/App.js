@@ -75,8 +75,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 10,
-  lng: 10,
+  lat: 43.04,
+  lng: -89.34,
 };
 
 //43°04'16.4"N 89°24'22.9"W
