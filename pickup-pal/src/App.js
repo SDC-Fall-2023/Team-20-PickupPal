@@ -87,7 +87,7 @@ function App() {
         <h1>Welcome to My React App</h1>
       </header>
 
-      <LoadScript googleMapsApiKey="AIzaSyCTrIV0Kk1Bs6ckMxOL6UtC7vnroWQyNLk">
+      <LoadScript googleMapsApiKey="KEY HERE">
         <GoogleMap
           mapContainerStyle={containerStyle}
           center={center}
